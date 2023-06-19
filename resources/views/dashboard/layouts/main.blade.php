@@ -67,7 +67,7 @@
                 </div>
             </footer>
         </div>
-    </div>
+    </div> 
     
     <!-- General JS Scripts -->
   <script src="/assets/modules/jquery.min.js"></script>
